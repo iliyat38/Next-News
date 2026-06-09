@@ -2,7 +2,7 @@
 
 A modern and fully responsive news application built with **Next.js App Router**.
 
-This project was created to explore and implement some of Next.js's most powerful routing and rendering features while maintaining a clean architecture and scalable code structure.
+Built as part of an advanced Next.js learning project focused on mastering the App Router and modern routing patterns.
 
 As my first Next.js project, the focus was not only on building a functional news platform but also on gaining hands-on experience with advanced routing patterns, layouts, API handling, and modern React development practices.
 
